@@ -113,7 +113,7 @@ const App: React.FC = () => {
       });
 
   return (
-      <Authenticator className="d-flex justify-content-center vh-100 bg-secondary align-items-center">
+      <Authenticator className="d-flex justify-content-center vh-100 bg-primary align-items-center">
         {({signOut}) => (
             <div className="App">
               <Container>
