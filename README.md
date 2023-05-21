@@ -2,11 +2,11 @@
 ***
 This project built in aws Amplify
 
-[link to Amplify](https://master.d204g20g00yt33.amplifyapp.com)
+[link to Amplify](https://main.d1n0w9jlxo76qz.amplifyapp.com/)
 
 
 ## Task
-We are given
+Debug and host a yelp clone
 
 ## Description
 Initialised an aws profile and set it to my app
@@ -24,7 +24,9 @@ npm start
 
 ## Usage
 App is hosted at:
-https://master.d204g20g00yt33.amplifyapp.com/
+https://main.d1n0w9jlxo76qz.amplifyapp.com/
+
+You just need to login or create an account then add restaurant descriptions
 
 
 
